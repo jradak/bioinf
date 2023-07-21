@@ -1,4 +1,4 @@
-# bioinformatika
+# bioinformatics
 
 ## Chapter1
 
